@@ -5,5 +5,5 @@
 о правильной структуре проекта, качестве написания кода. 
 Постоянно развиваю свои навыки как в frontend, так и в backend разработке. 
 Дополнительные навыки: React Native(мобильная разработка)
-Vue.js(Vuex) - https://github.com/MaXqIvanov/vuejs-junior
+Vue.js(Vuex)
 
