@@ -8,7 +8,7 @@
 Vue.js(Vuex)
 Доп ссылки на проекты:
 1. *Тестовый сайт, с различным функционалом
-https://store.web-liter.ru/
+https://store.web-liter.ru/                          
 https://github.com/MaXqIvanov/express_internet_store
 2. *Работа с данными и визуальная составляющая 
 https://store.web-liter.ru/task2/home
