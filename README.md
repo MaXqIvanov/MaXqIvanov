@@ -16,4 +16,6 @@ https://github.com/MaXqIvanov/digitalsolutions
 3. *Базовая работа с массивами и сортировкой
 https://store.web-liter.ru/task/home
 https://github.com/MaXqIvanov/taskBusinessSector
-
+4. Работа с различной анимацией/библиотеками js
+https://web-liter.ru/
+https://web-liter.ru/contacts
