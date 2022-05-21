@@ -6,4 +6,14 @@
 Постоянно развиваю свои навыки как в frontend, так и в backend разработке. 
 Дополнительные навыки: React Native(мобильная разработка)
 Vue.js(Vuex)
+Доп ссылки на проекты:
+1. *Тестовый сайт, с различным функционалом
+https://store.web-liter.ru/
+https://github.com/MaXqIvanov/express_internet_store
+2. *Работа с данными и визуальная составляющая 
+https://store.web-liter.ru/task2/home
+https://github.com/MaXqIvanov/digitalsolutions
+3. *Базовая работа с массивами и сортировкой
+https://store.web-liter.ru/task/home/?page=2
+https://github.com/MaXqIvanov/taskBusinessSector
 
