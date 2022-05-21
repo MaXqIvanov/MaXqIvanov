@@ -14,6 +14,6 @@ https://github.com/MaXqIvanov/express_internet_store
 https://store.web-liter.ru/task2/home                    
 https://github.com/MaXqIvanov/digitalsolutions
 3. *Базовая работа с массивами и сортировкой
-https://store.web-liter.ru/task/home/?page=2
+https://store.web-liter.ru/task/home
 https://github.com/MaXqIvanov/taskBusinessSector
 
