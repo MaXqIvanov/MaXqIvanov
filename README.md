@@ -20,5 +20,5 @@ https://github.com/MaXqIvanov/taskBusinessSector
 https://web-liter.ru/
 https://web-liter.ru/contacts
 5. Работа с Vue.js
-https://github.com/MaXqIvanov/vueNewGen
+https://github.com/MaXqIvanov/vueNewGen                                      
 https://github.com/MaXqIvanov/vuejs-junior
