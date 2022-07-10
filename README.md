@@ -11,7 +11,10 @@ Vue.js(Vuex)
 https://store.web-liter.ru/                          
 https://github.com/MaXqIvanov/express_internet_store
 2. *Работа с данными и визуальная составляющая 
-https://store.web-liter.ru/task2/home                    
+https://store.web-liter.ru/task2/home 
+**работа с styled components react.js
+https://github.com/MaXqIvanov/styledComponents
+**работа с scss
 https://github.com/MaXqIvanov/digitalsolutions
 3. *Базовая работа с массивами и сортировкой
 https://store.web-liter.ru/task/home
