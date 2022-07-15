@@ -8,7 +8,7 @@
 Vue.js(Vuex)
 Доп ссылки на проекты:                                                                                                          
                                                                                                                               
-Образец кода 13.07.2022: https://github.com/MaXqIvanov/code_13.07.2022 (ограниченный функционал)
+Образец кода 13.07.2022: https://github.com/MaXqIvanov/code_13.07.2022 //React + Redux Toolkit (ограниченный функционал)
 1. *Тестовый сайт, с различным функционалом
 https://store.web-liter.ru/                          
 https://github.com/MaXqIvanov/express_internet_store
