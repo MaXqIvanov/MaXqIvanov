@@ -9,7 +9,7 @@ Vue.js(Vuex)
 Доп ссылки на проекты:                                                                                                          
                                                                                                                               
 Образец кода 13.07.2022: React - https://github.com/MaXqIvanov/code_13.07.2022-React- //React + Redux Toolkit (ограниченный функционал)                                     
-Vue3 - https://github.com/MaXqIvanov/Example-13.03.2022-Vue3- (ограниченный функционал)     //Vue3 + VueX + TypeScript      
+Vue3 - https://github.com/MaXqIvanov/Example-13.07.2022-Vue3- (ограниченный функционал)     //Vue3 + VueX + TypeScript      
 
 Старые работы:                                        
 1. *Тестовый сайт, с различным функционалом
