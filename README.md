@@ -9,6 +9,7 @@
 React - https://github.com/MaXqIvanov/code_13.07.2022-React- //React + Redux Toolkit (ограниченный функционал)                                     
 Vue3 - https://github.com/MaXqIvanov/Example-13.07.2022-Vue3- (ограниченный функционал)     //Vue3 + VueX + TypeScript   
 TypeScript - https://github.com/MaXqIvanov/takeoffstaff
+Пример Вёрстки - http://web-helpers.ru:5001/   + код https://github.com/MaXqIvanov/Website_layout
 
 Старые работы:                                        
 1. *Тестовый сайт, с различным функционалом
