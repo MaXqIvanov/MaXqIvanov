@@ -5,7 +5,7 @@
 
 Доп ссылки на проекты:                                                                                                          
 Код 10.10.2022:
-Next - https://github.com/MaXqIvanov/next_10.10.2022 (ограниченный функционал)
+Next - https://github.com/MaXqIvanov/next_10.10.2022 (ограниченный функционал)                                                                                      
 Образец кода 13.07.2022:                                                                                                                              
 React - https://github.com/MaXqIvanov/code_13.07.2022-React- //React + Redux Toolkit (ограниченный функционал)                                     
 Vue3 - https://github.com/MaXqIvanov/Example-13.07.2022-Vue3- (ограниченный функционал)     //Vue3 + VueX + TypeScript   
