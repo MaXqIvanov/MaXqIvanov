@@ -4,7 +4,7 @@
 Мои контакты https://web-liter.ru/contacts                                                                                                                            
 
 Доп ссылки на проекты:                                                                                                          
-Код 10.10.2022:
+Код 10.10.2022:                                                                                                                                                   
 Next - https://github.com/MaXqIvanov/next_10.10.2022 (ограниченный функционал)                                                                                      
 Образец кода 13.07.2022:                                                                                                                              
 React - https://github.com/MaXqIvanov/code_13.07.2022-React- //React + Redux Toolkit (ограниченный функционал)                                     
