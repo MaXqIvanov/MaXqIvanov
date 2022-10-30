@@ -3,7 +3,13 @@
 Постоянно развиваю свои навыки как в frontend, так и в backend разработке.                                                                                            
 Мои контакты https://web-liter.ru/contacts                                                                                                                            
 
-Доп ссылки на проекты:                                                                                                          
+Доп ссылки на проекты:
+                                                                                                                                                            
+Код 30.10.2022: (React + TS + Redux Toolkit)                                                                                                                      
+https://github.com/MaXqIvanov/code_29.10.2022_react_ts                                                                                                          
+example:                                                                                                                                                  
+http://web-helpers.ru:5002/cmp                                                                                                                         
+
 Код 10.10.2022:                                                                                                                                                   
 Next - https://github.com/MaXqIvanov/next_10.10.2022 (ограниченный функционал)                                                                                      
 Образец кода 13.07.2022:                                                                                                                              
