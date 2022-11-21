@@ -3,7 +3,7 @@
 Постоянно развиваю свои навыки как в frontend, так и в backend разработке.                                                                                            
 Мои контакты https://web-liter.ru/contacts                                                                                                                            
 
-Доп ссылки на проекты:
+Доп ссылки на проекты:                                                                                                                                        
 Vue3 - https://github.com/MaXqIvanov/vue3_vuetify_composition_api                                                                                                                                                                                                                                                  
 Код 30.10.2022: (React + TS + Redux Toolkit)                                                                                                                      
 https://github.com/MaXqIvanov/code_29.10.2022_react_ts                                                                                                          
