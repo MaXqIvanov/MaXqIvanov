@@ -43,4 +43,3 @@ https://github.com/MaXqIvanov/vue_test_task
 https://github.com/MaXqIvanov/vueNewGen                 
 
 [![codewars](https://www.codewars.com/users/MaXqIvanov/badges/large)](https://www.codewars.com/users/MaXqIvanov)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
