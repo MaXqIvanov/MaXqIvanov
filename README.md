@@ -5,7 +5,8 @@
 Постоянно развиваю свои навыки как в frontend, так и в backend разработке.                                                                                            
 Мои контакты https://web-liter.ru/contacts                                                                                                                            
 
-Доп ссылки на проекты:                                                                                                                              
+Доп ссылки на проекты:  
+Vue + CompositionApi - https://github.com/MaXqIvanov/vue3_pinia_composition_api (example - http://web-helpers.ru:5007/)                                        
 Nuxt3 - https://github.com/MaXqIvanov/nuxt3_composition_api/tree/master/client                                                                                  
 Nest.js - https://github.com/MaXqIvanov/nuxt3_composition_api/tree/master/server                                                                                  
 Vue3 - https://github.com/MaXqIvanov/vue3_vuetify_composition_api                                                                                                                                                                                                                                                  
