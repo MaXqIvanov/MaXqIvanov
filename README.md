@@ -6,7 +6,8 @@
 Мои контакты https://web-liter.ru/contacts                                                                                                                            
 
 Доп ссылки на проекты:  
-Vue + CompositionApi - https://github.com/MaXqIvanov/vue3_pinia_composition_api (example - http://web-helpers.ru:5007/)                                        
+React - https://github.com/MaXqIvanov/react_ts_example_17.11.2022
+Vue3 + CompositionApi - https://github.com/MaXqIvanov/vue3_pinia_composition_api (example - http://web-helpers.ru:5007/)                                        
 Nuxt3 - https://github.com/MaXqIvanov/nuxt3_composition_api/tree/master/client                                                                                  
 Nest.js - https://github.com/MaXqIvanov/nuxt3_composition_api/tree/master/server                                                                                  
 Vue3 - https://github.com/MaXqIvanov/vue3_vuetify_composition_api                                                                                                                                                                                                                                                  
